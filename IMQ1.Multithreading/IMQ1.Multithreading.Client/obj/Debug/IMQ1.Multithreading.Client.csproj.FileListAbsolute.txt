@@ -1,0 +1,8 @@
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\bin\Debug\IMQ1.Multithreading.Client.exe.config
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\bin\Debug\IMQ1.Multithreading.Client.exe
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\bin\Debug\IMQ1.Multithreading.Client.pdb
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\obj\Debug\IMQ1.Multithreading.Client.exe
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\obj\Debug\IMQ1.Multithreading.Client.pdb
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\bin\Debug\IMQ1.Multithreading.Helpers.dll
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\bin\Debug\IMQ1.Multithreading.Helpers.pdb
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Client\obj\Debug\IMQ1.Multithreading.Client.csprojResolveAssemblyReference.cache

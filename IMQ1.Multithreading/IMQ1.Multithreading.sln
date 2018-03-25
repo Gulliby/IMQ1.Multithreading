@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.Multithreading.Client", "IMQ1.Multithreading.Client\IMQ1.Multithreading.Client.csproj", "{F5A0321B-51F3-44E7-AD95-9C9CA533DF9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{73ABBD46-6C4D-4717-BE13-7D5EEF47BFEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{30022AEC-FC25-4FEB-A511-B28BE4598913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.Multithreading.Server", "IMQ1.Multithreading.Server\IMQ1.Multithreading.Server.csproj", "{F590CCAA-BCC1-4DCB-8378-1ABE66330529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMQ1.Multithreading.Helpers", "IMQ1.Multithreading.Helpers\IMQ1.Multithreading.Helpers.csproj", "{C2EF4AC0-CCB7-4AF9-BD0B-A17C8C5D2C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A0321B-51F3-44E7-AD95-9C9CA533DF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A0321B-51F3-44E7-AD95-9C9CA533DF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A0321B-51F3-44E7-AD95-9C9CA533DF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A0321B-51F3-44E7-AD95-9C9CA533DF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F590CCAA-BCC1-4DCB-8378-1ABE66330529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F590CCAA-BCC1-4DCB-8378-1ABE66330529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F590CCAA-BCC1-4DCB-8378-1ABE66330529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F590CCAA-BCC1-4DCB-8378-1ABE66330529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EF4AC0-CCB7-4AF9-BD0B-A17C8C5D2C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EF4AC0-CCB7-4AF9-BD0B-A17C8C5D2C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EF4AC0-CCB7-4AF9-BD0B-A17C8C5D2C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EF4AC0-CCB7-4AF9-BD0B-A17C8C5D2C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5A0321B-51F3-44E7-AD95-9C9CA533DF9F} = {73ABBD46-6C4D-4717-BE13-7D5EEF47BFEA}
+		{F590CCAA-BCC1-4DCB-8378-1ABE66330529} = {30022AEC-FC25-4FEB-A511-B28BE4598913}
+	EndGlobalSection
+EndGlobal

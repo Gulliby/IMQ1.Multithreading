@@ -1,0 +1,4 @@
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Helpers\bin\Debug\IMQ1.Multithreading.Helpers.dll
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Helpers\bin\Debug\IMQ1.Multithreading.Helpers.pdb
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Helpers\obj\Debug\IMQ1.Multithreading.Helpers.dll
+D:\Mentoring\IMQ1.Multithreading\IMQ1.Multithreading\IMQ1.Multithreading.Helpers\obj\Debug\IMQ1.Multithreading.Helpers.pdb
